@@ -20,5 +20,5 @@ My Unity Game Prototypes
 
 # Contact:
 
-Reddit: _pyr3
-Discord: chillguy520#5830
++ Reddit: _pyr3
++ Discord: chillguy520#5830
