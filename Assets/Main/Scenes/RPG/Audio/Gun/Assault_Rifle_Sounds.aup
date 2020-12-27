@@ -1,0 +1,87 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Assault_Rifle_Sounds_data" version="1.3.0" audacityversion="2.3.3" sel0="0.0000000000" sel1="0.5188958333" vpos="176" h="0.0000000000" zoom="495.5065359477" rate="48000.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="GENRE" value="Other"/>
+	</tags>
+	<wavetrack name="assault_rifle_muffled_noise" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="45821">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f51b.au" len="45821" min="-0.160806" max="0.170831" rms="0.006197"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="assault_rifle_muffled_noise" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="45821">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1fd56.au" len="45821" min="-0.210541" max="0.207071" rms="0.00715"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="assaultRilfe_reload_end" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="0" solo="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26445">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f359.au" len="26445" min="-0.867432" max="0.690635" rms="0.023749"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="assaultRilfe_reload_end" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="0" solo="1" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="26445">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1ff58.au" len="26445" min="-0.75549" max="0.667065" rms="0.022869"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="assaultRifle_reload_start" isSelected="0" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="11140">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f2db.au" len="11140" min="-1.030236" max="0.928625" rms="0.049728"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="assaultRifle_reload_start" isSelected="0" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="11140">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f073.au" len="11140" min="-1.062515" max="1.004295" rms="0.071903"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="assaultRifle_pullslider" isSelected="1" height="150" minimized="0" channel="0" linked="1" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24907">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f748.au" len="24907" min="-0.522124" max="0.461862" rms="0.040562"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="assaultRifle_pullslider" isSelected="1" height="150" minimized="0" channel="1" linked="0" mute="1" solo="0" rate="48000" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="24907">
+				<waveblock start="0">
+					<simpleblockfile filename="eff1f8c8.au" len="24907" min="-0.481193" max="0.496264" rms="0.040965"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
