@@ -4,8 +4,8 @@ My Unity Game Prototypes
 # Contains:
 
 + Free Assets
-+ TPS/FPS System Base Game
-+ RPG Base Game with 3 hit combo
++ TPS/FPS System Base Game (Assets/Main/RPG/Scenes/shootergame.unity)
++ RPG Base Game with 3 hit combo (Assets/Main/RPG/Scenes/rpg.unity)
 
 # What I'm Looking For:
 
